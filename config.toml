@@ -1,4 +1,4 @@
-baseURL = 'https://jackbeoris.com/'
+baseURL = 'https://www.jackbeoris.com/'
 languageCode = 'en-us'
 title = 'Jack Beoris'
 theme = "introduction"
@@ -43,7 +43,7 @@ theme = "introduction"
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://linkedin.com/jackbeoris"
+        url   = "https://www.linkedin.com/in/jackbeoris/"
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
